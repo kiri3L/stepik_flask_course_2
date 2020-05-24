@@ -3,3 +3,5 @@ venv/
 
 # PyCharm project config
 .idea/
+
+__pycache__/
